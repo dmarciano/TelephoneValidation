@@ -1,5 +1,5 @@
-# TelephoneValidation
-Light-weight telephone validation method for phone numbers provided under the North American Numbering (NANP) Plan
+# Telephone Validation - North American Numbering Plan (NANP)
+Light-weight telephone validation method for phone numbers provided under the North American Numbering Plan (NANP)
 
 ## Usage
 The library contains a single static class ```Telephone``` with a single static method ```Validate```.  The phone number to validate is passed to this method.  The phone
